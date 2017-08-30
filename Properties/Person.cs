@@ -27,6 +27,12 @@ namespace Properties
             }
         }
 
+        public int Age
+        {
+            get { return myAge; }
+            set { myAge = value; }
+        }
+
         static void Main(string[] args)
         {
         }
