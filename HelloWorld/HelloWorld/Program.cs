@@ -8,7 +8,7 @@ namespace HelloWorld
 {
     class Program
     {
-        static void Main(string[] args)
+        static int Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine($"{args.Length} number of arguments were entered.");
@@ -19,6 +19,8 @@ namespace HelloWorld
             }
 
             Console.ReadKey();
+
+            return 0;
         }
     }
 }
