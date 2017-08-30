@@ -15,9 +15,9 @@ namespace CLI_Params
         {
             Console.WriteLine("Number of command line parameters: {0}", args.Length);
 
-            for(int i = 0; i < args.Length; i++)
+            foreach(string str in args)
             {
-                Console.WriteLine("Arg[{0}] = [{1}]", i, args[i]);
+                Console.WriteLine(str);
             }
 
             Console.WriteLine("END OF PARAMETERS");
