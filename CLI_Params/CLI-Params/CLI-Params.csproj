@@ -7,7 +7,7 @@
     <ProjectGuid>{C1ACE10A-AFF6-47E5-B5F9-40478AD4A7CF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>CLI_Params</RootNamespace>
-    <AssemblyName>CLI_Params</AssemblyName>
+    <AssemblyName>CLI-Params</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

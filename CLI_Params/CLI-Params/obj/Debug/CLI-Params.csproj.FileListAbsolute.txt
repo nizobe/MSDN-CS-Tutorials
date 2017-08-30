@@ -1,0 +1,6 @@
+C:\Users\Niko\Documents\GitHub\MSDN-CS-Tutorials\CLI_Params\CLI-Params\bin\Debug\CLI-Params.exe.config
+C:\Users\Niko\Documents\GitHub\MSDN-CS-Tutorials\CLI_Params\CLI-Params\bin\Debug\CLI-Params.exe
+C:\Users\Niko\Documents\GitHub\MSDN-CS-Tutorials\CLI_Params\CLI-Params\bin\Debug\CLI-Params.pdb
+C:\Users\Niko\Documents\GitHub\MSDN-CS-Tutorials\CLI_Params\CLI-Params\obj\Debug\CLI-Params.csprojResolveAssemblyReference.cache
+C:\Users\Niko\Documents\GitHub\MSDN-CS-Tutorials\CLI_Params\CLI-Params\obj\Debug\CLI-Params.exe
+C:\Users\Niko\Documents\GitHub\MSDN-CS-Tutorials\CLI_Params\CLI-Params\obj\Debug\CLI-Params.pdb

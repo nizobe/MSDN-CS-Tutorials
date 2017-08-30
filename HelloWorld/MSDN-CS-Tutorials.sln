@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{32918B52-1759-44EE-BAEB-09EAEC1BE481}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLI-Params", "..\CLI_Params\CLI-Params\CLI-Params.csproj", "{C1ACE10A-AFF6-47E5-B5F9-40478AD4A7CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{32918B52-1759-44EE-BAEB-09EAEC1BE481}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32918B52-1759-44EE-BAEB-09EAEC1BE481}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32918B52-1759-44EE-BAEB-09EAEC1BE481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1ACE10A-AFF6-47E5-B5F9-40478AD4A7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1ACE10A-AFF6-47E5-B5F9-40478AD4A7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1ACE10A-AFF6-47E5-B5F9-40478AD4A7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1ACE10A-AFF6-47E5-B5F9-40478AD4A7CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
