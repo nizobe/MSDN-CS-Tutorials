@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Taken from
+//https://msdn.microsoft.com/en-us/library/aa288463(v=vs.71).aspx
+
 namespace HelloWorld
 {
     class Program
